@@ -34,12 +34,7 @@ The software was tested in the following system requirements:
 
 - Ubuntu/Linux
 - Python 3.9
-- A graphical desktop session capable of displaying Open3D and OpenCV windows
-- A C++ compiler and CMake for building the Voxblox Python bindings
-- At least ~500 MB of open disk space for the selected Zenodo dataset and generated outputs
-
-A CUDA-compatible GPU is optional for TensorFlow inference. TensorFlow uses an available compatible GPU when one is visible to the installed TensorFlow build; otherwise it runs supported operations on the CPU. CPU execution is expected to be slower.
-
+- A graphical desktop session capable of displaying Open3D windows
 
 ## Quick start
 
