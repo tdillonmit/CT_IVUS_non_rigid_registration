@@ -43,6 +43,13 @@ A CUDA-compatible GPU is optional for TensorFlow inference. TensorFlow uses an a
 
 ## Quick start
 
+Clone the repository and enter its directory:
+
+```bash
+git clone https://github.com/tdillonmit/CT_IVUS_non_rigid_registration.git
+cd CT_IVUS_non_rigid_registration
+```
+
 Create and activate a Python 3.9 virtual environment:
 
 ```bash
@@ -57,12 +64,6 @@ Install the pinned Python packages:
 python -m pip install -r requirements.txt
 ```
 
-Clone the repository and enter its directory:
-
-```bash
-git clone https://github.com/tdillonmit/CT_IVUS_non_rigid_registration.git
-cd CT_IVUS_non_rigid_registration
-```
 
 Run the included example dataset:
 
